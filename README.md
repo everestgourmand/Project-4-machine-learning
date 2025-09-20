@@ -8,11 +8,11 @@ Run all cells in order.
 
 View model accuracy, classification report, and confusion matrix.
 
-# 🔥 Fire Incident Classification using PySpark
+# Fire Incident Classification using PySpark
 
 This project builds a machine learning pipeline in **PySpark** to classify fire incidents based on historical NYC fire department data. It involves data preprocessing, feature engineering, model training, and evaluation using a **Random Forest Classifier**.
 
-## 📁 Dataset
+## Dataset
 
 The dataset used is `fire_incidents.csv`, which includes the following features:
 
@@ -27,7 +27,7 @@ The dataset used is `fire_incidents.csv`, which includes the following features:
 - `Cause of Incident`
 - `Fire Category`
 
-## 🧪 Objective
+## Objective
 
 Predict the **Cause of Incident** (or optionally, the **Fire Category**) from various features including time, location, and structural data.
 
@@ -60,6 +60,3 @@ Author
 Developed by [everestgourmand]
 
 
----
-
-Let me know if you want a version targeted toward deployment (e.g., for AWS or Databricks), or if you'd like to include Jupyter notebook links, CLI usage, or model inference examples.
