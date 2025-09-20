@@ -32,28 +32,28 @@ The dataset used is `fire_incidents.csv`, which includes the following features:
 Predict the **Cause of Incident** (or optionally, the **Fire Category**) from various features including time, location, and structural data.
 
 1. Environment & Dependencies
-Python 3 (Colab, local, or cloud environment)
+  Python 3 (Colab, local, or cloud environment)
 
-Apache Spark 3.4.1
+  Apache Spark 3.4.1
 
-Java 11
+  Java 11
 
-Python packages:
+  Python packages:
 
-pyspark
+  pyspark
 
-findspark
+  findspark
 
-matplotlib, seaborn (for visualization)
+  matplotlib, seaborn (for visualization)
 
-pandas
+  pandas
 
-scikit-learn (for evaluation)
+  scikit-learn (for evaluation)
 
 2. Data Input
 Clean and complete version of fire_incidents.csv with:
 
-Proper timestamp formatting
+  Proper timestamp formatting
 
 
 Author
